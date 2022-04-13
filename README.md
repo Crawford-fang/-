@@ -4,7 +4,7 @@
 
 
 先建图
-###
+
 <launch>
   <!-- 设置地图的配置文件 -->
   <arg name="map" default="map.yaml" />
@@ -25,7 +25,7 @@
   </include>
    
 </launch>
-###
+
 
 ## 启动自己的机器人底盘
 
